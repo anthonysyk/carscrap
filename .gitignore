@@ -1,0 +1,4 @@
+.idea
+
+deploy/mongo-volume
+depoy/redis-data
